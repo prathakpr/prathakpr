@@ -50,7 +50,7 @@ Current Project: <a target="_blank" href="https://play.google.com/store/apps/det
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=prathakpr&count_private=true&show_icons=true&theme=highcontrast&hide=issues,prs"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=prathakpr&theme=radical&langs_count=3"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=prathakpr&theme=highcontrast&langs_count=3"></td>
   </tr>
 </table>
 
