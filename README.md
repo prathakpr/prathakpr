@@ -1,7 +1,7 @@
 ![Alt text](https://media.tenor.com/DaR4doSJOVMAAAAC/steam-platform-gaming.gif)
 <h1 align="center">Hi 👋, I'm Pulkit Rathore</h1>
 <h3 align="center">A passionate game developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rrOz7LKjzwcAAAAd/gta-5-gta.gif">
 
 - 👨‍💻 All of my projects are available at [https://pulkitrathore770.wixsite.com/coachingclass](https://pulkitrathore770.wixsite.com/coachingclass)
 
