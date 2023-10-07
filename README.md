@@ -3,9 +3,25 @@
 <h3 align="center">A passionate game developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rrOz7LKjzwcAAAAd/gta-5-gta.gif">
 
-- 👨‍💻 All of my projects are available at [https://pulkitrathore770.wixsite.com/coachingclass](https://pulkitrathore770.wixsite.com/coachingclass)
+**ABOUT ME** 
 
-- 📫 How to reach me **pulkitrathore770@gmail.com**
+<img src="https://img.shields.io/badge/Core-Game_Development-red" />
+</p>
+
+- 🔭 An aspiring Game developer with an experience of over 2-3 years
+- ⚡ Mobile, PC and VR games 
+- 🏆 Award winning game developer for the game "Into The Coaching Class"
+- 🌱 Currently working on some personal and freelance projects on Unreal Engine 4 & 5
+- 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1a9GGFwtAs_AJp0ypKP2tM54CcaWWugB4/view?usp=sharing">Resume</a>
+- 👨‍💻 My projects link : <a target="_blank" href="https://drive.google.com/file/d/1a9GGFwtAs_AJp0ypKP2tM54CcaWWugB4/view?usp=sharing](https://pulkitrathore770.wixsite.com/coachingclass](https://pulkitrathore770.wixsite.com/coachingclass)">Portfolio</a> 
+- 📫 How to reach me: pulkitrathore770@gmail.com
+- 👾 Check out my games on : <a target="_blank" href="https://prathakpr.itch.io//">Itch</a> and <a target="_blank" href="https://play.google.com/store/apps/dev?id=6917839435057215369">Google play store</a>
+- 👯 Always happy to collaborate with other devs :))
+
+ <!-- ________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________-->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
