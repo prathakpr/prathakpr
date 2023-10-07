@@ -11,12 +11,12 @@
 - 🔭 An aspiring Game developer with an experience of over 2-3 years
 - ⚡ Mobile, PC and VR games 
 - 🏆 Award winning game developer for the game "Into The Coaching Class"
-- 🌱 Currently working on some personal and freelance projects on Unreal Engine 4 & 5
+- 🌱 Currently working on some personal and freelance projects on Unreal Engine
 - 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1a9GGFwtAs_AJp0ypKP2tM54CcaWWugB4/view?usp=sharing">Resume</a>
-- 👨‍💻 My projects link : <a target="_blank" href="https://drive.google.com/file/d/1a9GGFwtAs_AJp0ypKP2tM54CcaWWugB4/view?usp=sharing](https://pulkitrathore770.wixsite.com/coachingclass](https://pulkitrathore770.wixsite.com/coachingclass)">Portfolio</a> 
+- 👨‍💻 My projects link : <a target="_blank" href="https://pulkitrathore770.wixsite.com/coachingclass">Portfolio</a>
 - 📫 How to reach me: pulkitrathore770@gmail.com
 - 👾 Check out my games on : <a target="_blank" href="https://prathakpr.itch.io//">Itch</a> and <a target="_blank" href="https://play.google.com/store/apps/dev?id=6917839435057215369">Google play store</a>
-- 👯 Always happy to collaborate with other devs :))
+- ‎️‍🔥 Creating awesome games as Anjaniputra Games :))
 
  <!-- ________________________________________________________________________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
