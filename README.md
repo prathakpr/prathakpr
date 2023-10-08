@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 <h3 align="left">Coding Experience:</h3>
 <a target="_blank" href="https://leetcode.com/prathakpr/"><img src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white"></img></a>
-<a target="_blank" href="https://auth.geeksforgeeks.org/user/pulkitratruer/"><img src="https://img.shields.io/badge/-GeeksforGeeks-000000?style=for-the-badge&logo=GeeksforGeeks&logoColor=green"></img></a>
+<a target="_blank" href="https://auth.geeksforgeeks.org/user/prathakpr/"><img src="https://img.shields.io/badge/-GeeksforGeeks-000000?style=for-the-badge&logo=GeeksforGeeks&logoColor=green"></img></a>
 </div>
 
 
