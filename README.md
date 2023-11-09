@@ -41,10 +41,10 @@ ________________________________________________________________________________
 <details align="center">
 <summary> <b> <samp> Click here to play my games !!! </samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+ <b><h2 style="color: #fc6203">INTO THE COACHING CLASS</h2> </b>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a target="_blank" href="https://play.google.com/store/apps/details?id=com.PR.Coaching_Class&hl=en&gl=US">Into The Coaching Class</a>
+Download Here: <a target="_blank" href="https://play.google.com/store/apps/details?id=com.PR.Coaching_Class&hl=en&gl=US">Into The Coaching Class</a>
 </samp>
 </details>
 
