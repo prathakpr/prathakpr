@@ -10,7 +10,7 @@
 
 - 🌱 An aspiring Backend developer
 - ⚡ has developed Mobile, PC and VR games earlier
-- 🏆 Award IGDC winning game developer for the game "Into The Coaching Class"
+- 🏆 IGDC Award winning game developer for the game "Into The Coaching Class"
 - 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1CxRnnJ0kBg-kuNm_3HiFTa8UHQ-eRfFk/view?usp=sharing">Resume</a>
 - 👨‍💻 My projects link : <a target="_blank" href="https://pulkitrathore770.wixsite.com/coachingclass">Portfolio</a>
 - 📫 How to reach me: pulkitrathore770@gmail.com
