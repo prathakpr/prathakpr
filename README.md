@@ -5,7 +5,7 @@
 
 **ABOUT ME** 
 
-<img src="https://img.shields.io/badge/Core-Game_Development-red" />
+<img src="https://img.shields.io/badge/Core-Backend Development-blue" /> <img src="https://img.shields.io/badge/Past-Game_Dev-yelow" />
 </p>
 
 - 🔭 An aspiring Game developer with an experience of over 2-3 years
