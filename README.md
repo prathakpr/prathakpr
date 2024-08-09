@@ -37,7 +37,7 @@ ________________________________________________________________________________
 <a target="_blank" href="https://auth.geeksforgeeks.org/user/prathakpr/"><img src="https://img.shields.io/badge/-GeeksforGeeks-000000?style=for-the-badge&logo=GeeksforGeeks&logoColor=green"></img></a>
 </div>
 
-
+<!--
 <details align="center">
 <summary> <b> <samp> Click here to play my games !!! </samp></b></summary>
 <samp>
@@ -62,3 +62,4 @@ Download Here: <a target="_blank" href="https://play.google.com/store/apps/detai
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathakpr/prathakpr/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+-->
