@@ -5,7 +5,7 @@
 
 **ABOUT ME** 
 
-<img src="https://img.shields.io/badge/Core-Backend Development-blue" /> <img src="https://img.shields.io/badge/Past-Game_Dev-yelow" />
+<img src="https://img.shields.io/badge/Core-Backend Development-blue" /> <img src="https://img.shields.io/badge/Side-Game_Dev-yelow" />
 </p>
 
 - 🌱 An aspiring Backend developer
