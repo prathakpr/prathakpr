@@ -12,7 +12,7 @@
 - ⚡ has developed Mobile, PC and VR games earlier
 - 🏆 IGDC Award winning game developer for the game "Into The Coaching Class"
 <!-- - 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1CxRnnJ0kBg-kuNm_3HiFTa8UHQ-eRfFk/view?usp=sharing">Resume</a> -->
-- 👨‍💻 My projects link : <a target="_blank" href="https://pulkitrathore770.wixsite.com/coachingclass">Portfolio</a>
+- 👨‍💻 My Game projects link : <a target="_blank" href="https://pulkitrathore770.wixsite.com/coachingclass">Portfolio</a>
 - 📫 How to reach me: pulkitrathore770@gmail.com
 - 👾 Check out my games on : <a target="_blank" href="https://prathakpr.itch.io//">Itch</a> and <a target="_blank" href="https://play.google.com/store/apps/dev?id=6917839435057215369">Google play store</a>
 - ‎️‍🔥 On Personal Level creating awesome games as Anjaniputra Games :))
