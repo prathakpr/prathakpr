@@ -35,12 +35,14 @@ Welcome to my GitHub profile! I'm a passionate **Backend Developer**. I love bui
 ![REACT](https://img.shields.io/badge/-REACT-3178C6?logo=react&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-000000?logo=unrealengine&logoColor=white&style=for-the-badge)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
+<!--
 ---
 
 ## 📈 GitHub Stats
@@ -49,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate **Backend Developer**. I love bui
   <img src="https://github-readme-stats.vercel.app/api?username=prathakpr&show_icons=true&theme=radical" alt="Pulkit's GitHub stats" style="width: 48%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathakpr&layout=compact&theme=radical" alt="Top Languages" style="width: 36%;">
 </div>
-
+-->
 ---
 
 ## 📫 Let's Connect!
