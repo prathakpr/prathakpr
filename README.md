@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **Backend Developer**. I love bui
 ## 🚀 About Me
 
 - 🖥️ Built several **backend projects** like news automation systems, bookkeeping services, and startup databases.
-- 🌱 Currently growing as a **Backend Developer**, focusing on **Node.js**, **Express.js**, **PostgreSQL**, and **MongoDB**.
+- 🌱 Currently growing as a **Backend Developer**
 - 📚 Constantly learning **Data Structures & Algorithms** to improve my problem-solving skills.
 - 🎮 Developed *"Into The Coaching Class"*, a horror game nominated for *Student Game of the Year* at IGDC 2022.
 
